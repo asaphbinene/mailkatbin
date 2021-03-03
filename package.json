@@ -4,7 +4,6 @@
   "description": "MailBag",
   "main": "main.tsx",
   "scripts": {
-    "dev": "webpack-dev-server",
     "build": "webpack --mode production"
   },
   "author": "Asaph TK Binene",
